@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=DB7093&text=Hi%20there%20👋🏼&reversal=false&fontAlign=50&section=header&rotate=0&textBg=false&descAlignY=50&fontSize=90&fontAlignY=50&fontColor=F0E68C)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=DB7093&text=Hi%20there%20👋🏼&reversal=false&fontAlign=50&section=header&rotate=0&textBg=false&descAlignY=50&fontSize=70&fontAlignY=50&fontColor=F0E68C)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndreyDogadkin&show_icons=true&theme=omni&rank_icon=github" alt="GitHub Stats">
 </p>
@@ -19,6 +19,6 @@
 
 ### *Links*:
 [![Telegram](https://img.shields.io/badge/Telegram-@andreydogadkin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreydogadkin)\
-[![Яндекс.Почта](https://img.shields.io/badge/Yandex%20mail-jvgger@yandex.ru-0078D4?style=for-the-badge)](mailto:jvgger@yandex.ru)
+[![Яндекс.Почта](https://img.shields.io/badge/Yandex%20mail-jvgger@yandex.ru-ffdb4d?style=for-the-badge)](mailto:jvgger@yandex.ru)
 
 
