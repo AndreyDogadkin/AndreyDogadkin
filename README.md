@@ -21,8 +21,9 @@
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </p>
 
-### *Links*:
-[![Telegram](https://img.shields.io/badge/Telegram-@andreydogadkin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreydogadkin)\
-[![Яндекс.Почта](https://img.shields.io/badge/Yandex%20mail-jvgger@yandex.ru-ffdb4d?style=for-the-badge)](mailto:jvgger@yandex.ru)
+<h3 align="center">Links:</h3>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Telegram-@andreydogadkin-2CA5E0?style=for-the-badge&logo=telegram" alt="https://t.me/andreydogadkin"/>
+  <img src="https://img.shields.io/badge/Yandex%20mail-jvgger@yandex.ru-ffdb4d?style=for-the-badge" alt="jvgger@yandex.ru"/>
+</p>
