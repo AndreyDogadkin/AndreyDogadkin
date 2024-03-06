@@ -24,6 +24,10 @@
 <h3 align="center">Links:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Telegram-@andreydogadkin-2CA5E0?style=for-the-badge&logo=telegram" alt="https://t.me/andreydogadkin"/>
-  <img src="https://img.shields.io/badge/Yandex%20mail-jvgger@yandex.ru-ffdb4d?style=for-the-badge" alt="jvgger@yandex.ru"/>
+  <a href="https://t.me/andreydogadkin">
+    <img src="https://img.shields.io/badge/Telegram-@andreydogadkin-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/>
+  </a>
+  <a href="mailto:jvgger@yandex.ru">
+    <img src="https://img.shields.io/badge/Yandex%20mail-jvgger@yandex.ru-ffdb4d?style=for-the-badge" alt="YandexMail"/>
+  </a>
 </p>
